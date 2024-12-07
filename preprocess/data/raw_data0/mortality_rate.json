@@ -1,0 +1,47 @@
+{
+  "chart": {
+    "title": "Reported maternal mortality rate",
+    "subtitle": "Reported annual death rate from [maternal conditions](#dod:maternal-mortality) per 100,000 women and girls, based on official statistics from each country. This includes late maternal deaths that occur up to 1 year after the end of pregnancy. Due to limited reporting, figures are lower than the true number of maternal deaths.",
+    "note": "To allow for comparisons between countries and over time, this metric is [age-standardized](#dod:age_standardized). All deaths in a country may not have been registered with a [cause of death](#dod:underlying-cause-of-death).",
+    "citation": "WHO Mortality Database (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/maternal-mortality-rate-who-mdb?country=USA~FRA~CAN~DEU~ITA~JPN~GBR&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "France",
+      "Russia",
+      "South Africa",
+      "Mexico",
+      "Brazil",
+      "Canada"
+    ]
+  },
+  "columns": {
+    "Age-standardized deaths from maternal conditions in both sexes per 100,000 people": {
+      "titleShort": "Age-standardized deaths from maternal conditions in both sexes per 100,000 people",
+      "titleLong": "Age-standardized deaths from maternal conditions in both sexes per 100,000 people",
+      "descriptionShort": "Reported deaths from maternal conditions in both sexes per 100,000 people.",
+      "descriptionKey": [
+        "The International Classification of Diseases (Version 10) codes that define maternal conditions are O00-O99."
+      ],
+      "unit": "deaths per 100,000 people",
+      "timespan": "1950-2022",
+      "type": "Numeric",
+      "owidVariableId": 955917,
+      "shortName": "age_standardized_death_rate_per_100_000_standard_population__sex_both_sexes__age_group_all_ages__cause_maternal_conditions__icd10_codes_o00_o99",
+      "lastUpdated": "2024-07-26",
+      "nextUpdate": "2025-07-26",
+      "citationShort": "WHO Mortality Database (2024) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2024) – with minor processing by Our World in Data. “Age-standardized deaths from maternal conditions in both sexes per 100,000 people” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/955917.metadata.json"
+    },
+    "955917-annotations": {
+      "titleShort": "955917-annotations",
+      "titleLong": "955917-annotations",
+      "type": "SeriesAnnotation",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “955917-annotations” [dataset].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/undefined.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-07"
+}
