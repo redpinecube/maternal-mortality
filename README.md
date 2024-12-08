@@ -1,6 +1,7 @@
 # Maternal Mortality Awareness Dashboard
 
 View live:
+View video demo:
 
 This dashboard aims to raise awarness about maternal mortality in the United States. It visualizes maternal mortality rates across the United States and and among different demographics. It was created using JavaScript, HTML, and CSS.
 
