@@ -8,6 +8,7 @@ This dashboard aims to raise awarness about maternal mortality in the United Sta
 This dashboard was developed by Tara Chakkithara, Rayan Awad Alim, and Talia Fabregas.
 
 # Implementation (fix this template)
+```
 .
 ├── README.md
 ├── observablehq.config.js
@@ -26,6 +27,8 @@ This dashboard was developed by Tara Chakkithara, Rayan Awad Alim, and Talia Fab
     │   ├── top-routes-count.parquet
     │   └── top-routes-duration.parquet
     └── index.md
+```
+
 
 # Data
 
