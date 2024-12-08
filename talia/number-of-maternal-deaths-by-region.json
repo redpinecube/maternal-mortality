@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "title": "Number of maternal deaths by region",
+    "subtitle": "Estimated number of deaths from [maternal conditions](#dod:maternal-mortality), by region.",
+    "citation": "UN MMEIG (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/number-of-maternal-deaths-by-region?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Oceania",
+      "Europe",
+      "North America",
+      "South America",
+      "Asia",
+      "Africa"
+    ]
+  },
+  "columns": {
+    "Estimated maternal deaths": {
+      "titleShort": "Estimated maternal deaths",
+      "titleLong": "Estimated maternal deaths",
+      "descriptionShort": "The estimated number of maternal deaths in a given year.",
+      "descriptionKey": [],
+      "descriptionProcessing": "- The data shown is the UN MMEIG point estimate - this means there is a 50% chance that the true measure lies above this point,\n  and a 50% chance that the true value lies below this point.",
+      "shortUnit": "",
+      "unit": "deaths",
+      "timespan": "1985-2020",
+      "type": "Numeric",
+      "owidVariableId": 959828,
+      "shortName": "maternal_deaths",
+      "lastUpdated": "2024-07-08",
+      "nextUpdate": "2025-07-08",
+      "citationShort": "UN MMEIG (2023) – processed by Our World in Data",
+      "citationLong": "UN MMEIG (2023) – processed by Our World in Data. “Estimated maternal deaths” [dataset]. UN MMEIG (WHO, UNICEF, UNFPA, World Bank Group and UNDESA/ Population Division), “Trends in maternal mortality 2020” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/959828.metadata.json"
+    },
+    "959828-annotations": {
+      "titleShort": "959828-annotations",
+      "titleLong": "959828-annotations",
+      "type": "SeriesAnnotation",
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “959828-annotations” [dataset].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/undefined.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-04"
+}

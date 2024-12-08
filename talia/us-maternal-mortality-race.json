@@ -1,0 +1,60 @@
+{
+  "Race and Hispanic origin and age": {
+    "Total": [
+      {"Year": 2018, "Live Births": 3791712, "Deaths": 658, "Maternal Mortality Rate": 17.4},
+      {"Year": 2019, "Live Births": 3747540, "Deaths": 754, "Maternal Mortality Rate": 20.1},
+      {"Year": 2020, "Live Births": 3613647, "Deaths": 861, "Maternal Mortality Rate": 23.8},
+      {"Year": 2021, "Live Births": 3664292, "Deaths": 1205, "Maternal Mortality Rate": 32.9},
+      {"Year": 2022, "Live Births": 3667758, "Deaths": 817, "Maternal Mortality Rate": 22.3}
+    ],
+    "Under 25": [
+      {"Year": 2018, "Live Births": 907782, "Deaths": 96, "Maternal Mortality Rate": 10.6},
+      {"Year": 2019, "Live Births": 877803, "Deaths": 111, "Maternal Mortality Rate": 12.6},
+      {"Year": 2020, "Live Births": 825403, "Deaths": 114, "Maternal Mortality Rate": 13.8},
+      {"Year": 2021, "Live Births": 797334, "Deaths": 163, "Maternal Mortality Rate": 20.4},
+      {"Year": 2022, "Live Births": 784299, "Deaths": 113, "Maternal Mortality Rate": 14.4}
+    ],
+    "25-39": [
+      {"Year": 2018, "Live Births": 2756974, "Deaths": 458, "Maternal Mortality Rate": 16.6},
+      {"Year": 2019, "Live Births": 2739976, "Deaths": 544, "Maternal Mortality Rate": 19.9},
+      {"Year": 2020, "Live Births": 2658445, "Deaths": 607, "Maternal Mortality Rate": 22.8},
+      {"Year": 2021, "Live Births": 2731223, "Deaths": 854, "Maternal Mortality Rate": 31.3},
+      {"Year": 2022, "Live Births": 2738802, "Deaths": 578, "Maternal Mortality Rate": 21.1}
+    ],
+    "40 and over": [
+      {"Year": 2018, "Live Births": 126956, "Deaths": 104, "Maternal Mortality Rate": 81.9},
+      {"Year": 2019, "Live Births": 129761, "Deaths": 98, "Maternal Mortality Rate": 75.5},
+      {"Year": 2020, "Live Births": 129799, "Deaths": 140, "Maternal Mortality Rate": 107.9},
+      {"Year": 2021, "Live Births": 135735, "Deaths": 188, "Maternal Mortality Rate": 138.5},
+      {"Year": 2022, "Live Births": 144657, "Deaths": 126, "Maternal Mortality Rate": 87.1}
+    ],
+    "Asian, Non-Hispanic": [
+      {"Year": 2018, "Live Births": 240798, "Deaths": 32, "Maternal Mortality Rate": 13.3},
+      {"Year": 2019, "Live Births": 238769, "Deaths": 33, "Maternal Mortality Rate": 13.8},
+      {"Year": 2020, "Live Births": 219068, "Deaths": 27, "Maternal Mortality Rate": 12.3},
+      {"Year": 2021, "Live Births": 213813, "Deaths": 36, "Maternal Mortality Rate": 16.8},
+      {"Year": 2022, "Live Births": 218994, "Deaths": 29, "Maternal Mortality Rate": 13.2}
+    ],
+    "Non-Hispanic Black": [
+      {"Year": 2018, "Live Births": 552029, "Deaths": 206, "Maternal Mortality Rate": 37.3},
+      {"Year": 2019, "Live Births": 548075, "Deaths": 241, "Maternal Mortality Rate": 44.0},
+      {"Year": 2020, "Live Births": 529811, "Deaths": 293, "Maternal Mortality Rate": 55.3},
+      {"Year": 2021, "Live Births": 517889, "Deaths": 362, "Maternal Mortality Rate": 69.9},
+      {"Year": 2022, "Live Births": 511439, "Deaths": 253, "Maternal Mortality Rate": 49.5}
+    ],
+    "Non-Hispanic White": [
+      {"Year": 2018, "Live Births": 1956413, "Deaths": 291, "Maternal Mortality Rate": 14.9},
+      {"Year": 2019, "Live Births": 1915912, "Deaths": 343, "Maternal Mortality Rate": 17.9},
+      {"Year": 2020, "Live Births": 1843432, "Deaths": 352, "Maternal Mortality Rate": 19.1},
+      {"Year": 2021, "Live Births": 1887656, "Deaths": 503, "Maternal Mortality Rate": 26.6},
+      {"Year": 2022, "Live Births": 1840739, "Deaths": 350, "Maternal Mortality Rate": 19.0}
+    ],
+    "Hispanic": [
+      {"Year": 2018, "Live Births": 886210, "Deaths": 105, "Maternal Mortality Rate": 11.8},
+      {"Year": 2019, "Live Births": 886467, "Deaths": 112, "Maternal Mortality Rate": 12.6},
+      {"Year": 2020, "Live Births": 866713, "Deaths": 158, "Maternal Mortality Rate": 18.2},
+      {"Year": 2021, "Live Births": 885916, "Deaths": 248, "Maternal Mortality Rate": 28.0},
+      {"Year": 2022, "Live Births": 937421, "Deaths": 158, "Maternal Mortality Rate": 16.9}
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "state": "Alabama",
+    "MaternalMortalityRateTotalDeaths": 96,
+    "MaternalMortalityRatePer100kLiveBirths": 41.4
+  },
+  {
+    "state": "Alaska",
+    "MaternalMortalityRateTotalDeaths": 10,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Arizona",
+    "MaternalMortalityRateTotalDeaths": 99,
+    "MaternalMortalityRatePer100kLiveBirths": 31.4
+  },
+  {
+    "state": "Arkansas",
+    "MaternalMortalityRateTotalDeaths": 63,
+    "MaternalMortalityRatePer100kLiveBirths": 43.5
+  },
+  {
+    "state": "California",
+    "MaternalMortalityRateTotalDeaths": 176,
+    "MaternalMortalityRatePer100kLiveBirths": 10.1
+  },
+  {
+    "state": "Colorado",
+    "MaternalMortalityRateTotalDeaths": 38,
+    "MaternalMortalityRatePer100kLiveBirths": 15.2
+  },
+  {
+    "state": "Connecticut",
+    "MaternalMortalityRateTotalDeaths": 23,
+    "MaternalMortalityRatePer100kLiveBirths": 16.7
+  },
+  {
+    "state": "Delaware",
+    "MaternalMortalityRateTotalDeaths": 8,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Florida",
+    "MaternalMortalityRateTotalDeaths": 228,
+    "MaternalMortalityRatePer100kLiveBirths": 26.3
+  },
+  {
+    "state": "Georgia",
+    "MaternalMortalityRateTotalDeaths": 169,
+    "MaternalMortalityRatePer100kLiveBirths": 33.9
+  },
+  {
+    "state": "Hawaii",
+    "MaternalMortalityRateTotalDeaths": 12,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Idaho",
+    "MaternalMortalityRateTotalDeaths": 16,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Illinois",
+    "MaternalMortalityRateTotalDeaths": 95,
+    "MaternalMortalityRatePer100kLiveBirths": 17.3
+  },
+  {
+    "state": "Indiana",
+    "MaternalMortalityRateTotalDeaths": 100,
+    "MaternalMortalityRatePer100kLiveBirths": 31.1
+  },
+  {
+    "state": "Iowa",
+    "MaternalMortalityRateTotalDeaths": 30,
+    "MaternalMortalityRatePer100kLiveBirths": 20.2
+  },
+  {
+    "state": "Kansas",
+    "MaternalMortalityRateTotalDeaths": 31,
+    "MaternalMortalityRatePer100kLiveBirths": 22
+  },
+  {
+    "state": "Kentucky",
+    "MaternalMortalityRateTotalDeaths": 81,
+    "MaternalMortalityRatePer100kLiveBirths": 38.4
+  },
+  {
+    "state": "Louisiana",
+    "MaternalMortalityRateTotalDeaths": 91,
+    "MaternalMortalityRatePer100kLiveBirths": 39
+  },
+  {
+    "state": "Maine",
+    "MaternalMortalityRateTotalDeaths": 5,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Maryland",
+    "MaternalMortalityRateTotalDeaths": 59,
+    "MaternalMortalityRatePer100kLiveBirths": 21.2
+  },
+  {
+    "state": "Massachusetts",
+    "MaternalMortalityRateTotalDeaths": 42,
+    "MaternalMortalityRatePer100kLiveBirths": 15.3
+  },
+  {
+    "state": "Michigan",
+    "MaternalMortalityRateTotalDeaths": 83,
+    "MaternalMortalityRatePer100kLiveBirths": 19.4
+  },
+  {
+    "state": "Minnesota",
+    "MaternalMortalityRateTotalDeaths": 33,
+    "MaternalMortalityRatePer100kLiveBirths": 12.6
+  },
+  {
+    "state": "Mississippi",
+    "MaternalMortalityRateTotalDeaths": 62,
+    "MaternalMortalityRatePer100kLiveBirths": 43
+  },
+  {
+    "state": "Missouri",
+    "MaternalMortalityRateTotalDeaths": 73,
+    "MaternalMortalityRatePer100kLiveBirths": 25.7
+  },
+  {
+    "state": "Montana",
+    "MaternalMortalityRateTotalDeaths": 13,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Nebraska",
+    "MaternalMortalityRateTotalDeaths": 26,
+    "MaternalMortalityRatePer100kLiveBirths": 26.2
+  },
+  {
+    "state": "Nevada",
+    "MaternalMortalityRateTotalDeaths": 30,
+    "MaternalMortalityRatePer100kLiveBirths": 21.7
+  },
+  {
+    "state": "New Hampshire",
+    "MaternalMortalityRateTotalDeaths": 7,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "New Jersey",
+    "MaternalMortalityRateTotalDeaths": 103,
+    "MaternalMortalityRatePer100kLiveBirths": 25.7
+  },
+  {
+    "state": "New Mexico",
+    "MaternalMortalityRateTotalDeaths": 27,
+    "MaternalMortalityRatePer100kLiveBirths": 30.2
+  },
+  {
+    "state": "New York",
+    "MaternalMortalityRateTotalDeaths": 188,
+    "MaternalMortalityRatePer100kLiveBirths": 21.7
+  },
+  {
+    "state": "North Carolina",
+    "MaternalMortalityRateTotalDeaths": 126,
+    "MaternalMortalityRatePer100kLiveBirths": 26.5
+  },
+  {
+    "state": "North Dakota",
+    "MaternalMortalityRateTotalDeaths": 10,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Ohio",
+    "MaternalMortalityRateTotalDeaths": 126,
+    "MaternalMortalityRatePer100kLiveBirths": 23.8
+  },
+  {
+    "state": "Oklahoma",
+    "MaternalMortalityRateTotalDeaths": 59,
+    "MaternalMortalityRatePer100kLiveBirths": 30.3
+  },
+  {
+    "state": "Oregon",
+    "MaternalMortalityRateTotalDeaths": 27,
+    "MaternalMortalityRatePer100kLiveBirths": 16.4
+  },
+  {
+    "state": "Pennsylvania",
+    "MaternalMortalityRateTotalDeaths": 89,
+    "MaternalMortalityRatePer100kLiveBirths": 16.7
+  },
+  {
+    "state": "Rhode Island",
+    "MaternalMortalityRateTotalDeaths": 7,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "South Carolina",
+    "MaternalMortalityRateTotalDeaths": 74,
+    "MaternalMortalityRatePer100kLiveBirths": 32.7
+  },
+  {
+    "state": "South Dakota",
+    "MaternalMortalityRateTotalDeaths": 13,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Tennessee",
+    "MaternalMortalityRateTotalDeaths": 134,
+    "MaternalMortalityRatePer100kLiveBirths": 41.7
+  },
+  {
+    "state": "Texas",
+    "MaternalMortalityRateTotalDeaths": 421,
+    "MaternalMortalityRatePer100kLiveBirths": 28.1
+  },
+  {
+    "state": "Utah",
+    "MaternalMortalityRateTotalDeaths": 30,
+    "MaternalMortalityRatePer100kLiveBirths": 16.1
+  },
+  {
+    "state": "Vermont",
+    "MaternalMortalityRateTotalDeaths": 1,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Virginia",
+    "MaternalMortalityRateTotalDeaths": 113,
+    "MaternalMortalityRatePer100kLiveBirths": 29.1
+  },
+  {
+    "state": "Washington",
+    "MaternalMortalityRateTotalDeaths": 69,
+    "MaternalMortalityRatePer100kLiveBirths": 20.4
+  },
+  {
+    "state": "West Virginia",
+    "MaternalMortalityRateTotalDeaths": 18,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "Wisconsin",
+    "MaternalMortalityRateTotalDeaths": 29,
+    "MaternalMortalityRatePer100kLiveBirths": 11.6
+  },
+  {
+    "state": "Wyoming",
+    "MaternalMortalityRateTotalDeaths": 4,
+    "MaternalMortalityRatePer100kLiveBirths": null
+  },
+  {
+    "state": "United States",
+    "MaternalMortalityRateTotalDeaths": 3467,
+    "MaternalMortalityRatePer100kLiveBirths": 22.42194867383721
+  }
+]
